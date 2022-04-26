@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Black
+Favorite food: Burger
+Favorite musician/band: Eyal Golan
+Favorite movie: matam
+Requested grade in the course: 100+
